@@ -4,6 +4,6 @@ or without auth key.
 
 
 
-link1: "https://github.com/public-apis/public-apis#development" // this is github link.
+link1: https://github.com/public-apis/public-apis#development // this is github link.
 
-link2: "https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/" 
+link2: https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/ 
